@@ -17,4 +17,4 @@ An analysis of pricing for Airbnb listings in Sydney, Australia and an investiga
 An analysis of revenue for different hosts and occupancy rates across neighborhoods.
 
 # TECH STACK
-Programming language: **SQL**
+Programming language: **SQL** *(Structured Query Language)*
